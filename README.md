@@ -1,6 +1,6 @@
 # Retos Ambientales
 ![retosambientales](img/img1.jpg)
-# INDICE
+# Indice
 
   1. [Introducción](introduccion.md)
   2. [Principales retos ambientales y sociales](retos.md)
