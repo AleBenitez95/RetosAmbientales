@@ -8,4 +8,4 @@
 ##  Un agente de contaminación física
 
 
-## La contanimacion lumínica
+## La contanimación lumínica
