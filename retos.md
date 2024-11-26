@@ -25,5 +25,6 @@ Sandy Chuol, de 10 años, se dirige a su casa con el bidón de agua limpia que r
 
 ##  Un agente de contaminación física
 
+Cuando hablamos de agentes contaminantes nos referimos a aquellas sustancias que se encuentran en el medio natural y que provocan efectos perjudiciales en el mismo medio ambiente y en la salud de los seres vivos que lo habitan
 
 ## La contanimación lumínica
