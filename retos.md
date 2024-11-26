@@ -18,6 +18,11 @@ La superficie del planeta Tierra es un 70% agua, pero de la ingente cantidad de 
 
 ![img](img/img5.jpg)
 
+Imagen de [UNICEF/UN0215532/Rich](https://www.unicef.org/es/comunicados-prensa/1-de-cada-3-personas-en-el-mundo-no-tiene-acceso-a-agua-potable)
+
+Sandy Chuol, de 10 años, se dirige a su casa con el bidón de agua limpia que recolectó en un punto de abastecimiento de agua establecido con la ayuda de UNICEF, en Malakal Town, Sudán del Sur.
+
+
 ##  Un agente de contaminación física
 
 
