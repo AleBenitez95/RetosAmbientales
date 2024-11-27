@@ -40,5 +40,12 @@ Pesticidas: Usados para la actividad agrícola, estos necesitan pesticidades par
 ![img7](img/img7.jpg)
 
 
-Pesticidades: 
+
 ## La contanimación lumínica
+
+La contaminación lumínica es el aumento del fondo de brillo del cielo nocturno natural, a causa de la dispersión y reflexión de luz procedente de la iluminación artificial. Este aumento de luz artificial perturba y altera las propiedades del medio receptor. También se considera contaminación lumínica cualquier forma de iluminación artificial que afecte a un medio receptor que no sea el objeto de la iluminación.
+
+
+![img8](img/img8.jpg)
+
+
