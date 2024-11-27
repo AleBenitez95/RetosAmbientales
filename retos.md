@@ -35,5 +35,10 @@ Aguas residuales: estas están cargadas de sustancias tóxicas, materia orgánic
 Metales pesados: son muy tóxicos y pueden inducir enfermades como el cáncer o mutaciones.
 
 
+Pesticidas: Usados para la actividad agrícola, estos necesitan pesticidades para enfrentar las plagas de insectos, lo cual supone un peligro para las aguas subterráneas.
+
+![img7](img/img7.jpg)
+
+
 Pesticidades: 
 ## La contanimación lumínica
