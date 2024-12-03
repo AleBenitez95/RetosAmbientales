@@ -6,3 +6,5 @@ Cada año en todo el mundo se pierden o se desperdician 1.300 millones de tonela
 
 ![img10](img/img10.jpg)
 # EIA
+
+Una **EIA (Evaluación de impacto ambiental)** es un procedimiento por el cual se estudian los efectos significativos que un determinado plan, programa o proyecto puede suponer sobre el ambiente, antes de su aprobación o autorización por el organo competente. 
