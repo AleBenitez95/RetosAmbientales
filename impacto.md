@@ -1,6 +1,8 @@
-## La contaminación de cada español según la INE
+## INE
 
+Según la INE cada ciudadano generó aproximadamente 482 kilogramos de residuos urbanos en 2022.
 
+![img11](img/img11.jpg)
 
 
 
