@@ -1,0 +1,1 @@
+La conclusión que he llegado después de este trabajo es la poca conciencia que tenemos sobre nuestro impacto ambiental al planeta, aún viendo estos retos ambientales que proponen medidas novedosas y científicas, aún nos queda mucho camino por recorrer para no llevar el planeta a un punto crítico.
