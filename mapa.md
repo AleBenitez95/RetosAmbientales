@@ -2,4 +2,4 @@
 
 
 
-![mapa](img/mapa.png)
+![mapa](img/mapa.jpg)
