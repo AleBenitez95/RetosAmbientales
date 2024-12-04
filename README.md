@@ -10,3 +10,6 @@
   6. [Mapa conceptual](mapa.md)
   7. [Glosario](glosario.md)
   8. [Referencias](referencias.md)
+
+
+### Autor: Alejandro Benítez Quidato
